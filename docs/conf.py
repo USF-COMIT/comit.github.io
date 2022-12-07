@@ -8,9 +8,9 @@
 
 import sphinx_rtd_theme
 
-project = 'URI Ocean Robotics Documentation'
-copyright = '2022, Kristopher Krasnosky, Emir Cem Gezer'
-author = 'Kristopher Krasnosky, Emir Cem Gezer'
+project = 'COMIT Software Documentaiton Hub'
+copyright = '2022, Kristopher Krasnosky, USF COMIT'
+author = 'Kristopher Krasnosky'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -21,6 +21,7 @@ extensions = [
     'sphinx.ext.imgmath',
     'sphinx.ext.githubpages',
     'sphinx_rtd_theme',
+    'myst_parser'
 ]
 
 templates_path = ['_templates']
