@@ -13,4 +13,5 @@ Welcome to USF COMIT's software documentation hub
 
    software-packages/index
    making_a_contribution
+   onboarding
 
